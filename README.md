@@ -1,5 +1,6 @@
-## SQL for Data Science - Module 4 Exercises
-This repository contains the exercises from Module 4 of the SQL for Data Science course, along with the cleaned datasets.
+## Answering the Exercises from SQL for Data Science - Module 4
+
+This repository includes my answers to the Module 4 exercises from the SQL for Data Science course, as well as the cleaned datasets used for running the SQL queries.
 
 ## Contents
 Module 4 exercise questions (in text or markdown format)
